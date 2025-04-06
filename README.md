@@ -7,7 +7,7 @@ Users can add, delete, and mark tasks as complete with a clean and minimal inter
 ## Features
 <ul>
   <li>Add new tasks</li>
-  <li>Mark tasks as completed/li>
+  <li>Mark tasks as completed</li>
   <li>Delete tasks</li>
   <li>Responsive design</li>
   <li>Real-time updates (no page reload)</li>
