@@ -14,7 +14,6 @@ Users can add, delete, and mark tasks as completed with a clean and minimal inte
   <li>Real-time updates (no page reload)</li>
 </ul> 
 <br>
-<br>
 
 ## Tech Stack
 
