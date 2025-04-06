@@ -1,6 +1,6 @@
 # todo-list
 
-This is a simple and interactive todo-list web app that helps users stay organized and manage their daily tasks efficiently. 
+This is a simple and interactive To-Do-List web app that helps users stay organized and manage their daily tasks efficiently. 
 Users can add, delete, and mark tasks as complete with a clean and minimal interface.
 <br>
 
