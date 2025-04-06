@@ -13,6 +13,14 @@ Users can add, delete, and mark tasks as completed with a clean and minimal inte
   <li>Real-time updates (no page reload)</li>
 </ul> 
 
+## Tech Stack
+
+HTML5
+
+CSS3
+
+JavaScipt
+
 ## Screenshots
 
 ![Screenshot](https://i.imgur.com/6bdYz5v.png)
@@ -32,14 +40,6 @@ Go to the project directory
 ```
 
 Open index.html with Live Server
-
-## Tech Stack
-
-HTML5
-
-CSS3
-
-JavaScipt
 
 ## Feedback
 
