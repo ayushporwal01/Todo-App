@@ -1,10 +1,10 @@
-# todo-list
+#📝 To-Do List
 
 This is a simple and interactive To-Do-List web app that helps users stay organized and manage their daily tasks efficiently. 
 Users can add, delete, and mark tasks as completed with a clean and minimal interface.
 <br>
 
-## Features
+##🚀 Features
 <ul>
   <li>Add new tasks</li>
   <li>Mark tasks as completed</li>
@@ -13,7 +13,7 @@ Users can add, delete, and mark tasks as completed with a clean and minimal inte
   <li>Real-time updates (no page reload)</li>
 </ul> 
 
-## Tech Stack
+##🛠️ Tech Stack
 
 HTML5
 
@@ -21,11 +21,11 @@ CSS3
 
 JavaScipt
 
-## Screenshots
+##📸 Screenshots
 
 ![Screenshot](https://i.imgur.com/6bdYz5v.png)
 
-## Run Locally
+##📂 Run Locally
 
 Clone the project
 
@@ -41,7 +41,7 @@ Go to the project directory
 
 Open index.html with Live Server
 
-## Feedback
+##💬 Feedback
 
 If you have any feedback, please reach out to me at porwalayush953@gmail.com
 
