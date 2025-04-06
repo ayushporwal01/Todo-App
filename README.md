@@ -25,7 +25,7 @@ JavaScipt
 <br>
 <br>
 
-##📸 Screenshots
+## Screenshots
 
 ![Screenshot](https://i.imgur.com/6bdYz5v.png)
 <br>
