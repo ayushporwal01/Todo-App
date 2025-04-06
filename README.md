@@ -21,7 +21,7 @@ HTML5
 
 CSS3
 
-JavaScipt
+JavaScript
 <br>
 <br>
 
