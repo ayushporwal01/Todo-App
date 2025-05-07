@@ -1,4 +1,4 @@
-# To-Do List
+# To-Do App
 
 This is a simple and interactive To-Do-List web app that helps users stay organized and manage their daily tasks efficiently. 
 Users can add, delete, and mark tasks as completed with a clean and minimal interface.
