@@ -36,13 +36,13 @@ JavaScript
 Clone the project
 
 ```bash
-  git clone https://github.com/ayushporwal01/js-todo-list.git
+  git clone https://github.com/ayushporwal01/Todo-App.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd js-todo-list
+  cd Todo-App
 ```
 
 Open index.html with Live Server
